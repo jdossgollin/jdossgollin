@@ -11,7 +11,7 @@ If I'm not in the office, you can probably find me watching [La Albirroja](https
 
 The best way to contact me is through [email](mailto:jdossgollin@rice.edu).
 If you're looking for my CV, click [here](https://jdossgollin.github.io/cv-pdf/CV_Doss-Gollin_James.pdf).
-You can also find me around:
+You can also find me at:
 
 * [Doss-Gollin Lab GitHub](https://github.com/dossgollin-lab): collaborative repos
 * [Lab Website](http://dossgollin-lab.github.io): ongoing projects
